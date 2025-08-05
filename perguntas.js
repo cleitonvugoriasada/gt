@@ -1,4 +1,3 @@
-// História (6 perguntas)
 criaCartao(
     'História',
     'Em que ano a Revolução Francesa começou?',
